@@ -1,0 +1,33 @@
+{
+    "description": "ParkingLot - dapp pentru gestionarea locurilor de parcare #2",
+    "external_url": "https://baditaandrei.io/2",
+    "image": "ipfs://bafkreiadf6bmpdux5wxwqq3lbuyvzm7jvms5sauebztksgnqzcykbaj24y",
+    "name": "ParkingLot 2",
+    "id": "2",
+    "attributes": [
+      {
+        "trait_type": "latitude",
+        "value": "37.27"
+      },
+      {
+        "trait_type": "longitude",
+        "value": "1.12"
+      },
+      {
+        "trait_type": "forDisabledPeople",
+        "value": "false"
+      },
+      {
+        "trait_type": "smartLot",
+        "value": "true"
+      },
+      {
+        "trait_type": "isMotorcycle",
+        "value": "false"
+      },
+      {
+        "trait_type": "isBicycle",
+        "value": "false"
+      }
+    ]
+}

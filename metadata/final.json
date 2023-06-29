@@ -1,0 +1,202 @@
+{
+  "Standard Metadata": [
+    {
+      "description": "ParkingLot - dapp pentru gestionarea locurilor de parcare #1",
+      "external_url": "https://baditaandrei.io/1",
+      "image": "ipfs://bafkreicdr6wiagmokd5m7aiyof6ero7zzj4ce6ay3zntnpp7jp2yxj5x2y",
+      "name": "ParkingLot 1",
+      "id": "1",
+      "attributes": [
+        {
+          "trait_type": "latitude",
+          "value": "41.40338"
+        },
+        {
+          "trait_type": "longitude",
+          "value": "2.17403"
+        },
+        {
+          "trait_type": "forDisabledPeople",
+          "value": "false"
+        },
+        {
+          "trait_type": "smartLot",
+          "value": "false"
+        },
+        {
+          "trait_type": "isMotorcycle",
+          "value": "false"
+        },
+        {
+          "trait_type": "isBicycle",
+          "value": "false"
+        }
+      ]
+    },
+    {
+      "description": "ParkingLot - dapp pentru gestionarea locurilor de parcare #2",
+      "external_url": "https://baditaandrei.io/2",
+      "image": "ipfs://bafkreiadf6bmpdux5wxwqq3lbuyvzm7jvms5sauebztksgnqzcykbaj24y",
+      "name": "ParkingLot 2",
+      "id": "2",
+      "attributes": [
+        {
+          "trait_type": "latitude",
+          "value": "37.27"
+        },
+        {
+          "trait_type": "longitude",
+          "value": "1.12"
+        },
+        {
+          "trait_type": "forDisabledPeople",
+          "value": "false"
+        },
+        {
+          "trait_type": "smartLot",
+          "value": "true"
+        },
+        {
+          "trait_type": "isMotorcycle",
+          "value": "false"
+        },
+        {
+          "trait_type": "isBicycle",
+          "value": "false"
+        }
+      ]
+    },
+    {
+      "description": "ParkingLot - dapp pentru gestionarea locurilor de parcare #3",
+      "external_url": "https://baditaandrei.io/3",
+      "image": "ipfs://bafkreibrpvaahsmja5cgedsjixuyiztbbqqxap27g3mar6a7ousdu72kga",
+      "name": "ParkingLot 3",
+      "id": "3",
+      "attributes": [
+        {
+          "trait_type": "latitude",
+          "value": "77.19"
+        },
+        {
+          "trait_type": "longitude",
+          "value": "7.84"
+        },
+        {
+          "trait_type": "forDisabledPeople",
+          "value": "true"
+        },
+        {
+          "trait_type": "smartLot",
+          "value": "true"
+        },
+        {
+          "trait_type": "isMotorcycle",
+          "value": "false"
+        },
+        {
+          "trait_type": "isBicycle",
+          "value": "false"
+        }
+      ]
+    },
+    {
+      "description": "ParkingLot - dapp pentru gestionarea locurilor de parcare #4",
+      "external_url": "https://baditaandrei.io/4",
+      "image": "ipfs://bafkreibrpvaahsmja5cgedsjixuyiztbbqqxap27g3mar6a7ousdu72kga",
+      "name": "ParkingLot 4",
+      "id": "4",
+      "attributes": [
+        {
+          "trait_type": "latitude",
+          "value": "21.02"
+        },
+        {
+          "trait_type": "longitude",
+          "value": "27.14"
+        },
+        {
+          "trait_type": "forDisabledPeople",
+          "value": "true"
+        },
+        {
+          "trait_type": "smartLot",
+          "value": "false"
+        },
+        {
+          "trait_type": "isMotorcycle",
+          "value": "false"
+        },
+        {
+          "trait_type": "isBicycle",
+          "value": "false"
+        }
+      ]
+    },
+    {
+      "description": "ParkingLot - dapp pentru gestionarea locurilor de parcare #5",
+      "external_url": "https://baditaandrei.io/5",
+      "image": "ipfs://bafkreibpja2mj3mixey5bfwgolpvgiuejrojekcouq7qbc6p7hoasudnze",
+      "name": "ParkingLot 5",
+      "id": "5",
+      "attributes": [
+        {
+          "trait_type": "latitude",
+          "value": "20.19"
+        },
+        {
+          "trait_type": "longitude",
+          "value": "14.84"
+        },
+        {
+          "trait_type": "forDisabledPeople",
+          "value": "false"
+        },
+        {
+          "trait_type": "smartLot",
+          "value": "false"
+        },
+        {
+          "trait_type": "isMotorcycle",
+          "value": "true"
+        },
+        {
+          "trait_type": "isBicycle",
+          "value": "false"
+        }
+      ]
+    },
+    {
+      "description": "ParkingLot - dapp pentru gestionarea locurilor de parcare #6",
+      "external_url": "https://baditaandrei.io/6",
+      "image": "ipfs://bafkreia2wpbcszkc3aqw7bmbzukwxlftlob3smkzq2cfcjlci2guidseuy",
+      "name": "ParkingLot 6",
+      "id": "6",
+      "attributes": [
+        {
+          "trait_type": "latitude",
+          "value": "12.19"
+        },
+        {
+          "trait_type": "longitude",
+          "value": "65.84"
+        },
+        {
+          "trait_type": "forDisabledPeople",
+          "value": "false"
+        },
+        {
+          "trait_type": "smartLot",
+          "value": "false"
+        },
+        {
+          "trait_type": "isMotorcycle",
+          "value": "false"
+        },
+        {
+          "trait_type": "isBicycle",
+          "value": "true"
+        }
+      ]
+    }
+  ]
+}
